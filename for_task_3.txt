@@ -1,0 +1,7 @@
+Ivanov 23000
+Petrov 17000
+Maslova 35000
+Korolev 18500
+Guseva 12000
+Orlov 21000
+Zhukova 27000

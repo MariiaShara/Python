@@ -1,0 +1,5 @@
+Literature: 250(l) 45(pr) -.
+Science: 120(l) 60(pr) 50(lab).
+Math: 180(l) 80(pr) -.
+Art: - 200(pr) -.
+Music: - 120(pr) -.
